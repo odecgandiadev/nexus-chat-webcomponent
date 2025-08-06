@@ -1,0 +1,50 @@
+{
+  "CHAT": {
+    "WRITE_MESSAGE": "Write your message",
+    "SEND": "Send",
+    "ATTACH_FILES": "Files",
+    "USER": "User",
+    "NEW_CHAT": "New chat",
+    "LOADING": "Loading",
+    "THINKING": "Thinking...",
+    "LLM_INFO": "This assistant uses LLMs and may make mistakes. Always double-check the answers.",
+    "STARTING_AGENT": "Starting agent..."
+  },
+  "THINKING": {
+    "STARTING": "Starting reasoning process...",
+    "THOUGHT_DURATION": "Thought for",
+    "SECOND": "second",
+    "MINUTE": "minute"
+  },
+  "MENU": {
+    "CONVERSATIONS": "Conversations",
+    "TODAY": "Today",
+    "CONVERSATION": "Conversation",
+    "ACTIONS": "Tasks", 
+    "ACTION": "Task",
+    "UNNAMED": "Unnamed",
+    "DELETE_CONVERSATION": "Delete",
+    "ALL": "All",
+    "TASKS": "Tasks",
+    "QUERIES": "Queries"
+  },
+  "MESSAGES": {
+    "COPY": "Copy",
+    "EDIT": "Edit",
+    "LIKE": "Like",
+    "DISLIKE": "Dislike",
+    "VOICE": "Play voice",
+    "MORE_OPTIONS": "More options"
+  },
+  "SETTINGS": {
+    "TITLE": "Settings",
+    "THEME": "Theme",
+    "LANGUAGE": "Language",
+    "SPANISH": "Spanish",
+    "ENGLISH": "English"
+  },
+  "ERRORS": {
+    "INITIALIZATION": "Error initializing NexusAI",
+    "CONNECTION": "Connection error"
+  }
+} 

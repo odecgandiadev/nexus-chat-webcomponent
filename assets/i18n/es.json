@@ -1,0 +1,50 @@
+{
+  "CHAT": {
+    "WRITE_MESSAGE": "¿En qué te puedo ayudar?",
+    "SEND": "Enviar",
+    "ATTACH_FILES": "Archivos",
+    "USER": "Usuario",
+    "NEW_CHAT": "Nuevo chat",
+    "LOADING": "Cargando",
+    "THINKING": "Pensando...",
+    "LLM_INFO": "Este asistente usa modelos LLM y puede cometer errores. Verifica siempre las respuestas.",
+    "STARTING_AGENT": "Iniciando agente..."
+  },
+  "THINKING": {
+    "STARTING": "Iniciando proceso de razonamiento...",
+    "THOUGHT_DURATION": "Pensó durante",
+    "SECOND": "segundo",
+    "MINUTE": "minuto"
+  },
+  "MENU": {
+    "CONVERSATIONS": "Conversaciones",
+    "TODAY": "Hoy",
+    "CONVERSATION": "Conversación",
+    "TASKS": "Tareas",
+    "QUERIES": "Consultas",
+    "ACTIONS": "Acciones",
+    "ALL": "Todas",
+    "ACTION": "Acción",
+    "UNNAMED": "Sin nombre",
+    "DELETE_CONVERSATION": "Eliminar" 
+  },
+  "MESSAGES": {
+    "COPY": "Copiar",
+    "EDIT": "Editar",
+    "LIKE": "Me gusta",
+    "DISLIKE": "No me gusta",
+    "VOICE": "Reproducir voz",
+    "MORE_OPTIONS": "Más opciones"
+  },
+  "SETTINGS": {
+    "TITLE": "Configuración",
+    "THEME": "Tema",
+    "LANGUAGE": "Idioma",
+    "SPANISH": "Español",
+    "ENGLISH": "Inglés"
+  },
+  "ERRORS": {
+    "INITIALIZATION": "Error al inicializar NexusAI",
+    "CONNECTION": "Error de conexión"
+  }
+} 
